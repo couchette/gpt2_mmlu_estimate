@@ -4,7 +4,7 @@ You can learn about "Measuring Massive Multitask Language Understanding" through
 
 ## How to use
 
-download dataset zip to data/ dir
+download [data.zip](https://people.eecs.berkeley.edu/~hendrycks/data.tar)  and unzip to data/ dir
 
 ```bash
 git submodule --init --recursive
